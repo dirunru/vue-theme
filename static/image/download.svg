@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>下载</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="房间管理-录制管理-视频列表" transform="translate(-1125.000000, -180.000000)" fill="#FF0047">
+            <g id="内容区" transform="translate(200.000000, 50.000000)">
+                <g id="表格" transform="translate(20.000000, 72.000000)">
+                    <g id="下载_export" transform="translate(905.000000, 58.000000)">
+                        <g id="下载" transform="translate(4.000000, 3.000000)">
+                            <path d="M9,13.3858231 L14.0724771,8.313346 C14.4630014,7.92282171 15.0961664,7.92282171 15.4866907,8.313346 C15.877215,8.70387029 15.877215,9.33703527 15.4866907,9.72755957 L8.82983641,16.3844138 C8.67551508,16.5387351 8.4833042,16.6320742 8.28314898,16.6644309 C7.94127457,16.7683127 7.55472563,16.6851015 7.2844214,16.4147973 L0.627567149,9.75794306 C0.237042857,9.36741877 0.237042857,8.73425379 0.627567149,8.3437295 C1.01809144,7.95320521 1.65125642,7.95320521 2.04178071,8.3437295 L7,13.3019488 L7,1 C7,0.44771525 7.44771525,1.01453063e-16 8,0 C8.55228475,-2.12475365e-16 9,0.44771525 9,1 L9,13.3858231 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
